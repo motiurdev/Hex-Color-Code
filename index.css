@@ -1,0 +1,19 @@
+button{
+    border: 1px solid blue;
+    padding: 10px 30px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50vh;
+    margin-left: 90vh;
+    font-size: 20px;
+    font-family: sans-serif;
+    background: #d4e5ff;
+    color: #313131;
+    cursor: pointer;
+}
+.show_result{
+    color:rgb(59, 59, 59);
+}
